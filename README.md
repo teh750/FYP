@@ -1,6 +1,6 @@
 # This is my React, Node.js, Tailwind, Mongodb and Stripe FYP project.
 
-in middleware folder. pls create .env file
+in backend folder. pls create .env file
 
 and copy the code below
 
@@ -25,8 +25,8 @@ Stripe
 STRIPE_SECRET_KEY=your_stripe_secret_key
 
 # and then run this code in each folder as new terminal
-middleware-  npm run server
+backend-  npm run server
 
-backend-  npm run dev
+admin-  npm run dev
 
 frontend-  npm run dev
