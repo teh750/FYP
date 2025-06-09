@@ -24,7 +24,7 @@ CLOUDINARY_SECRET_KEY=your_secret_key
 Stripe
 STRIPE_SECRET_KEY=your_stripe_secret_key
 
-# and then run this code each folder terminal
+# and then run this code in each folder as new terminal
 middleware-  npm run server
 
 backend-  npm run dev
