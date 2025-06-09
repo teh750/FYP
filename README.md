@@ -1,4 +1,4 @@
-# This is my React, Node.js, Tailwind, Mongodb and Stripe FYP project.
+# This is my React, Node.js, Tailwind, Mongodb and Stripe (individual FYP project).
 
 in backend folder. pls create .env file
 
