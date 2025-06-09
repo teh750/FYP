@@ -6,7 +6,9 @@ and copy the code below
 
 Authentication
 JWT_SECRET=your_jwt_secret_key_here
+
 ADMIN_EMAIL=your_admin@email.com
+
 ADMIN_PASSWORD=your_secure_password
 
 Database
