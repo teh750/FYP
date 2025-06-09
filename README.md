@@ -26,5 +26,7 @@ STRIPE_SECRET_KEY=your_stripe_secret_key
 
 # and then run this code each folder terminal
 middleware-  npm run server
+
 backend-  npm run dev
+
 frontend-  npm run dev
