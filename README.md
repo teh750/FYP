@@ -1,4 +1,4 @@
-This is my React, Node.js, Tailwind, Mongodb and Stripe FYP project.
+# This is my React, Node.js, Tailwind, Mongodb and Stripe FYP project.
 
 in middleware folder. pls create .env file
 
@@ -16,7 +16,9 @@ MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.example.mongodb.net/you
 
 Cloudinary
 CLOUDINARY_NAME=your_cloud_name
+
 CLOUDINARY_API_KEY=your_api_key
+
 CLOUDINARY_SECRET_KEY=your_secret_key
 
 Stripe
